@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### 👋 About Me  
+- 🎓 **Master's Student** at Sungkyunkwan University  
+- 🏫 **Researcher** at AIFactoryLab  
+- 🤖 Interested in Deep Learning, NLP, and Computer Vision  
+- 📚 Currently exploring **Dense Captioning & Large Language Models**  
 <!--
 **jhlimdev/jhlimdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
