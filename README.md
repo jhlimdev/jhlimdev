@@ -5,7 +5,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 
 🔬 **Research Interests:**  
 - Multimodal models & Learning
-- Anomaly Detection tasks 
+- Anomaly Detection, image captioning tasks 
 - Computer Vision & Natural Language Process
 - On_Device AI
 
