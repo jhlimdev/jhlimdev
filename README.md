@@ -20,7 +20,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 
 ## 🏆 Publications & Patents  
 
-### 📄 **Journal Papers**  
+### 📄 **Conference Papers**  
 - **Jaehoon Lim**, Dowan Kim, Jaehee Lee (2024)  
   📌 *임베디드 시스템 환경에서 CNN 기반 이미지 초해상도 처리 모델 구현 연구*  
   📕 **한국통신학회 학술대회논문집**, 2024  
@@ -33,6 +33,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
   📌 *A Study on implementing the most optimized RAG system for financial document using AutoRAG*  
   📕 Annual Conference of KIPS. Korea Information Processing Society, 2024
 
+### 📄 **Journal Papers**  
 - Tae-yong Kim, Jieun Lee, Sukhyun Gong, **Jaehoon Lim**, Dowan Kim, Jongpil Jeong  (2024)  
   📌 *A Novel FS-GAN-Based Anomaly Detection Approach for Smart Manufacturing*  
   📕 Machines, 2024
