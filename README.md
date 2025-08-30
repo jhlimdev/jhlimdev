@@ -49,6 +49,11 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 | **2025-01-24** | Embodied Intelligence Toward Future Smart Manufacturing in the Era of AI Foundation Model |
 | **2025-03-13** | BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models |
 | **2025-04-02** | Generative Region-Language Pretraining for Open-Ended Object Detection |
+| **2025-05-14** | AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models |
+| **2025-06-04** | MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis |
+| **2025-06-30** | Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis |
+| **2025-07-17** | Deeplasia: deep learning for bone age assessment validated on skeletal dysplasias |
+| **2025-08-01** | FastVLM_Efficient_Vision_Encoding_for_Vision_Language_Models |
 
 ---
 
