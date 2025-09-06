@@ -46,9 +46,9 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
   📌 *DualNet-R: Dual-Network Surface Restoration with Weakly-Supervised Diffusion Based Knowledge Distillation for Pseudo Ground Truth Generation*  
   , 2025
 
-  - Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Jongpil Jeong  (2024)  
-  📌 *MRF-Vision: Multimodal Radio Frequency-Vision Anomaly Detection for Industrial IoT Monitoring*  
-  Advanced Intelligent Systems, 2025 (submitted)
+- Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Jongpil Jeong  (2024)  
+📌 *MRF-Vision: Multimodal Radio Frequency-Vision Anomaly Detection for Industrial IoT Monitoring*  
+Advanced Intelligent Systems, 2025 (submitted)
 
 
 
