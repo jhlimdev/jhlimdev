@@ -4,9 +4,9 @@ I am a **Deep Learning Researcher**.
 Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunkwan University**, focusing on **Multimodal AI and Natural Language Processing with Computer Vision**.  
 
 🔬 **Research Interests:**  
-- Multimodal models & Learning
-- Anomaly Detection, image captioning tasks 
 - Computer Vision & Natural Language Process
+- Vision-Language Models
+- Anomaly Detection, image captioning tasks 
 - On_Device AI
 
 ---
@@ -44,7 +44,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 
 - Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Jongpil Jeong
   📌 *DualNet-R: Dual-Network Surface Restoration with Weakly-Supervised Diffusion Based Knowledge Distillation for Pseudo Ground Truth Generation*  
-  Engineering Applications of Artificial Intelligence, 2025
+Engineering Applications of Artificial Intelligence, 2025
 
 - Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Jongpil Jeong
 📌 *MRF-Vision: Multimodal Radio Frequency-Vision Anomaly Detection for Industrial IoT Monitoring*  
