@@ -21,11 +21,11 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 ## 🏆 Publications & Patents  
 
 ### 📄 **Conference Papers**  
-- **Jaehoon Lim**, Dowan Kim, Jaehee Lee (2024)  
+- **Jaehoon Lim**, Dowan Kim, Jaehee Lee
   📌 *임베디드 시스템 환경에서 CNN 기반 이미지 초해상도 처리 모델 구현 연구*  
   📕 **한국통신학회 학술대회논문집**, 2024  
 
-- Sung-jin Kim, **Jaehoon Lim**, Sae-Hun Yeom (2024)  
+- Sung-jin Kim, **Jaehoon Lim**, Sae-Hun Yeom
   📌 *Research on performance improvement of voice recognition-based customized local chatbot system using AutoRAG*  
   📕 Annual Conference of KIPS. Korea Information Processing Society, 2024
 
@@ -33,24 +33,24 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
   📌 *A Study on implementing the most optimized RAG system for financial document using AutoRAG*  
   📕 Annual Conference of KIPS. Korea Information Processing Society, 2024
 
-- **Jaehoon Lim**, Yeonkyu Kwak, Tae-yong Kim, Jieun Lee, Jongpil Jeong (2025)
+- **Jaehoon Lim**, Yeonkyu Kwak, Tae-yong Kim, Jieun Lee, Jongpil Jeong
 📌 *MLLM-CRVD: Multi-modal LLM Based Context-aware Rule Violation Detection Using Q-Former Module with LoRA-integrated Attention for Worker Safety Monitoring*
  The 40th Annual AAAI Conference on Artificial Intelligence, 2025 (Submitted)
 
 ### 📄 **Journal Papers**  
-- Tae-yong Kim, Jieun Lee, Sukhyun Gong, **Jaehoon Lim**, Dowan Kim, Jongpil Jeong  (2024)  
+- Tae-yong Kim, Jieun Lee, Sukhyun Gong, **Jaehoon Lim**, Dowan Kim, Jongpil Jeong
   📌 *A Novel FS-GAN-Based Anomaly Detection Approach for Smart Manufacturing*  
   📕 Machines, 2024
 
-- Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Jongpil Jeong  (2024)  
+- Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Jongpil Jeong
   📌 *DualNet-R: Dual-Network Surface Restoration with Weakly-Supervised Diffusion Based Knowledge Distillation for Pseudo Ground Truth Generation*  
-  , 2025
+  Engineering Applications of Artificial Intelligence, 2025
 
-- Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Jongpil Jeong  (2024)  
+- Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Jongpil Jeong
 📌 *MRF-Vision: Multimodal Radio Frequency-Vision Anomaly Detection for Industrial IoT Monitoring*  
 Advanced Intelligent Systems, 2025 (submitted)
 
-- Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Seokhyun Gong, Geunho Lee and Jongpil Jeong  (2024)  
+- Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Seokhyun Gong, Geunho Lee and Jongpil Jeong  
 📌 *Zero-GAN: GAN based Zero-shot Anomaly Detection with a Masked Autoencoder for Deep Domain Adaptation*
 Image and Vision Computing, 2025 (submitted)
 
