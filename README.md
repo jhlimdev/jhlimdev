@@ -33,9 +33,9 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
   📌 *A Study on implementing the most optimized RAG system for financial document using AutoRAG*  
   📕 Annual Conference of KIPS. Korea Information Processing Society, 2024
 
-  - **Jaehoon Lim**, Yeonkyu Kwak, Tae-yong Kim, Jieun Lee, Jongpil Jeong (2025)
-  📌 *MLLM-CRVD: Multi-modal LLM Based Context-aware Rule Violation Detection Using Q-Former Module with LoRA-integrated Attention for Worker Safety Monitoring*
-   The 40th Annual AAAI Conference on Artificial Intelligence, 2025 (Submitted)
+- **Jaehoon Lim**, Yeonkyu Kwak, Tae-yong Kim, Jieun Lee, Jongpil Jeong (2025)
+📌 *MLLM-CRVD: Multi-modal LLM Based Context-aware Rule Violation Detection Using Q-Former Module with LoRA-integrated Attention for Worker Safety Monitoring*
+ The 40th Annual AAAI Conference on Artificial Intelligence, 2025 (Submitted)
 
 ### 📄 **Journal Papers**  
 - Tae-yong Kim, Jieun Lee, Sukhyun Gong, **Jaehoon Lim**, Dowan Kim, Jongpil Jeong  (2024)  
@@ -49,6 +49,11 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 - Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Jongpil Jeong  (2024)  
 📌 *MRF-Vision: Multimodal Radio Frequency-Vision Anomaly Detection for Industrial IoT Monitoring*  
 Advanced Intelligent Systems, 2025 (submitted)
+
+- Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Seokhyun Gong, Geunho Lee and Jongpil Jeong  (2024)  
+📌 *Zero-GAN: GAN based Zero-shot Anomaly Detection with a Masked Autoencoder for Deep Domain Adaptation*
+Image and Vision Computing, 2025 (submitted)
+
 
 
 
