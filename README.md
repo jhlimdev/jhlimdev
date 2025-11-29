@@ -55,6 +55,18 @@ Result in Engineering, 2025 (Submitted)
 📌 *MLLM-CRVD: Multi-modal LLM Based Context-aware Rule Violation Detection Using Q-Former Module with LoRA-integrated Attention for Worker Safety Monitoring*
   2025 (Transferring to another journal in progress)
 
+---
+
+## 💽 Registered Software Works (Copyright)
+
+**1. Multimodal LLM-Based Workplace Safety Monitoring**  
+Situation awareness and safety rule violation detection using image–text multimodal understanding.  
+*Registered with the Korea Copyright Commission, 2025.*
+
+**2. Smart Factory Energy Consumption Analysis and Optimization System**  
+Peak load detection and operation efficiency recommendation using time-series power data.  
+*Registered with the Korea Copyright Commission, 2025.*
+
 
 ---
 
