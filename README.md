@@ -62,11 +62,12 @@ Result in Engineering, 2025 (Submitted)
 **1. Multimodal LLM-Based Workplace Safety Monitoring**  
 Situation awareness and safety rule violation detection using image–text multimodal understanding.  
 *Registered with the Korea Copyright Commission, 2025.*
+C-2025-030090
 
 **2. Smart Factory Energy Consumption Analysis and Optimization System**  
 Peak load detection and operation efficiency recommendation using time-series power data.  
 *Registered with the Korea Copyright Commission, 2025.*
-
+C-2025-050844
 
 ---
 
