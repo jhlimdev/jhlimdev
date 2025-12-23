@@ -21,8 +21,8 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 ## 🏆 Publications & Patents  
 
 ### 📄 **Conference Papers**  
-- **Jaehoon Lim**, Dowan Kim, Jaehee Lee
-  📌 *임베디드 시스템 환경에서 CNN 기반 이미지 초해상도 처리 모델 구현 연구*  
+- **Jaehoon Lim**, Dowan Kim, Jaehee Lee \
+  📌 *임베디드 시스템 환경에서 CNN 기반 이미지 초해상도 처리 모델 구현 연구*  \
   📕 **한국통신학회 학술대회논문집**, 2024  
 
 - Sung-jin Kim, **Jaehoon Lim**, Sae-Hun Yeom
