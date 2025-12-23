@@ -33,7 +33,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
   📌 *A Study on implementing the most optimized RAG system for financial document using AutoRAG*  
   📕 Annual Conference of KIPS. Korea Information Processing Society, 2024
 
-- **Jaehoon Lim**, Yeonkyu Kwak, Tae-yong Kim, Jieun Lee, Jongpil Jeong
+- **Jaehoon Lim**, Taeyeong Lee, Yunseo Park, Hongjin Moon, Jongpil Jeong
   📌 *A-Protonet: Attribute-Conditioned Few-Shot Recognition of Industrial Parts*
      2025 (Currently working on academic papers)
 
