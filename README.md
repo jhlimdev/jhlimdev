@@ -25,38 +25,38 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
   📌 *임베디드 시스템 환경에서 CNN 기반 이미지 초해상도 처리 모델 구현 연구*  \
   📕 **한국통신학회 학술대회논문집**, 2024  
 
-- Sung-jin Kim, **Jaehoon Lim**, Sae-Hun Yeom
-  📌 *Research on performance improvement of voice recognition-based customized local chatbot system using AutoRAG*  
+- Sung-jin Kim, **Jaehoon Lim**, Sae-Hun Yeom \
+  📌 *Research on performance improvement of voice recognition-based customized local chatbot system using AutoRAG*  \
   📕 Annual Conference of KIPS. Korea Information Processing Society, 2024
 
-- **Jaehoon Lim**, Jangwon Suh (2024)
-  📌 *A Study on implementing the most optimized RAG system for financial document using AutoRAG*  
+- **Jaehoon Lim**, Jangwon Suh (2024) \
+  📌 *A Study on implementing the most optimized RAG system for financial document using AutoRAG*  \
   📕 Annual Conference of KIPS. Korea Information Processing Society, 2024
 
-- **Jaehoon Lim**, Taeyeong Lee, Yunseo Park, Hongjin Moon, Jongpil Jeong
-  📌 *A-Protonet: Attribute-Conditioned Few-Shot Recognition of Industrial Parts*
+- **Jaehoon Lim**, Taeyeong Lee, Yunseo Park, Hongjin Moon, Jongpil Jeong \
+  📌 *A-Protonet: Attribute-Conditioned Few-Shot Recognition of Industrial Parts* \
      2025 (Currently working on academic papers)
 
 
 ### 📄 **Journal Papers**  
-- Tae-yong Kim, Jieun Lee, Sukhyun Gong, **Jaehoon Lim**, Dowan Kim, Jongpil Jeong
-  📌 *A Novel FS-GAN-Based Anomaly Detection Approach for Smart Manufacturing*  
+- Tae-yong Kim, Jieun Lee, Sukhyun Gong, **Jaehoon Lim**, Dowan Kim, Jongpil Jeong \
+  📌 *A Novel FS-GAN-Based Anomaly Detection Approach for Smart Manufacturing*  \
   📕 Machines, 2024
 
-- Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Jongpil Jeong
-  📌 *Dualnet: A Multi-Task Architecture for Defect Segmentation with Diffusion-Based Image Restoration and Recoverability Prediction*  
+- Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Jongpil Jeong\
+  📌 *Dualnet: A Multi-Task Architecture for Defect Segmentation with Diffusion-Based Image Restoration and Recoverability Prediction*  \
 Engineering Applications of Artificial Intelligence, 2025 (Submitted)
 
-- Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Jongpil Jeong
-📌 *Unsupervised Learnig for RF Signal-Based Product Surface Defect Detection*  
+- Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Jongpil Jeong \
+📌 *Unsupervised Learnig for RF Signal-Based Product Surface Defect Detection*  \
 International Journal of Intelligent Systems , 2025 (Submitted)
 
-- Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Seokhyun Gong, Geunho Lee and Jongpil Jeong  
-📌 *Aero-GAN: Adaptive Cross-Domain Anomaly Detection Without Retraining for Smart Manufacturing​*
+- Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Seokhyun Gong, Geunho Lee and Jongpil Jeong  \
+📌 *Aero-GAN: Adaptive Cross-Domain Anomaly Detection Without Retraining for Smart Manufacturing​* \
 Result in Engineering, 2025 (Submitted)
 
-- **Jaehoon Lim**, Yeonkyu Kwak, Tae-yong Kim, Jieun Lee, Jongpil Jeong
-📌 *_mLLM-CRD: Multi-modal LLM Based Context-aware Rule Violation Detection Using LoRA-integrated Attention for Worker Safety Monitoring*
+- **Jaehoon Lim**, Yeonkyu Kwak, Tae-yong Kim, Jieun Lee, Jongpil Jeong \
+📌 *mLLM-CRD: Multi-modal LLM Based Context-aware Rule Violation Detection Using LoRA-integrated Attention for Worker Safety Monitoring*\
   2025 (Transferring to another journal in progress)
 
 ---
