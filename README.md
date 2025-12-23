@@ -86,6 +86,7 @@ C-2025-050844
 | **2025-09-01** | Neighborhood Contrastive  Learning for Novel Class Discovery |
 | **2025-10-01** | CLIP-Adapter: Better Vision-Language Models with Feature Adapters |
 | **2025-11-04** | Prototypical Residual Networks for Anomaly Detection and Localization |
+| **2025-12-01** | Aligning and Prompting Anything for Zero-Shot Generalized Anomaly Detection |
 
 ---
 
