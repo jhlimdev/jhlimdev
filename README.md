@@ -86,7 +86,7 @@ C-2025-050844
 | **2025-06-04** | MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis |
 | **2025-06-30** | Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis |
 | **2025-07-17** | Deeplasia: deep learning for bone age assessment validated on skeletal dysplasias |
-| **2025-08-01** | FastVLM_Efficient_Vision_Encoding_for_Vision_Language_Models |
+| **2025-08-01** | FastVLM: Efficient Vision Encoding for Vision Language Models |
 | **2025-09-01** | Neighborhood Contrastive  Learning for Novel Class Discovery |
 | **2025-10-01** | CLIP-Adapter: Better Vision-Language Models with Feature Adapters |
 | **2025-11-04** | Prototypical Residual Networks for Anomaly Detection and Localization |
