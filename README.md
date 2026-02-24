@@ -55,7 +55,7 @@ International Journal of Intelligent Systems , 2025 (Submitted)
 📌 *Aero-GAN: Adaptive Cross-Domain Anomaly Detection Without Retraining for Smart Manufacturing​* \
 Result in Engineering, 2025 (Submitted)
 
-- **Jaehoon Lim**, Yeonkyu Kwak, Tae-yong Kim, Jieun Lee, Jongpil Jeong \
+- **Jaehoon Lim**, Yeonkyu Kwak, Jieun Lee, Tae-yong Kim, Jongpil Jeong \
 📌 *mLLM-CRD: multi-modal LLM based context-aware rule detection using LoRA-integrated attention for worker safety monitoring*\
   2025 (Accepted for publication in the Journal of King Saud University Computer and Information Sciences)
 
