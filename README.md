@@ -56,7 +56,7 @@ International Journal of Intelligent Systems , 2025 (Submitted)
 Result in Engineering, 2025 (Submitted)
 
 - **Jaehoon Lim**, Yeonkyu Kwak, Tae-yong Kim, Jieun Lee, Jongpil Jeong \
-📌 *_m_LLM-CRD: Multi-modal LLM Based Context-aware Rule Violation Detection Using LoRA-integrated Attention for Worker Safety Monitoring*\
+📌 *mLLM-CRD: Multi-modal LLM Based Context-aware Rule Violation Detection Using LoRA-integrated Attention for Worker Safety Monitoring*\
   2025 (Accepted for publication in the Journal of King Saud University Computer and Information Sciences)
 
 ---
