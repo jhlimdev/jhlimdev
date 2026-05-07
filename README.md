@@ -77,6 +77,7 @@ C-2025-050844
 Few-shot industrial component recognition using CLIP-based residual prototypical adaptation with optional attribute conditioning.  
 *Registered with the Korea Copyright Commission, 2025.*
 C-2025-060904
+
 ---
 
 ## 📚 Seminar on Thesis Research  
