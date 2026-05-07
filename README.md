@@ -34,7 +34,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
   📕 Annual Conference of KIPS. Korea Information Processing Society, 2024
 
 - **Jaehoon Lim**, Taeyeong Lee, Yunseo Park, Hongjin Moon, Jongpil Jeong \
-  📌 *A-Protonet: Attribute-Conditioned Few-Shot Recognition of Industrial Parts* \
+  📌 *Few-Shot Industrial Part Recognition via Residual Prototypical Adaptation on Long-Tail Distributions* \
      2025 (Currently working on academic papers)
 
 
@@ -48,12 +48,12 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 Engineering Applications of Artificial Intelligence, 2025 (Submitted)
 
 - Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Jongpil Jeong \
-📌 *Unsupervised Learnig for RF Signal-Based Product Surface Defect Detection*  \
-International Journal of Intelligent Systems , 2025 (Submitted)
+📌 *MRF-Vision: Multi-modal Radio Frequency-Vision Anomaly Detection for Industrial IoT Monitoring*  \
+NeuroComputing , 2026 (Submitted)
 
 - Jieun Lee, Tae-yong Kim, **Jaehoon Lim**, Seokhyun Gong, Geunho Lee and Jongpil Jeong  \
 📌 *Aero-GAN: Adaptive Cross-Domain Anomaly Detection Without Retraining for Smart Manufacturing​* \
-Result in Engineering, 2025 (Submitted)
+Scientific Reports, 2025 (Submitted)
 
 - **Jaehoon Lim**, Yeonkyu Kwak, Jieun Lee, Tae-yong Kim, Jongpil Jeong \
 📌 *mLLM-CRD: multi-modal LLM based context-aware rule detection using LoRA-integrated attention for worker safety monitoring*\
@@ -73,6 +73,10 @@ Peak load detection and operation efficiency recommendation using time-series po
 *Registered with the Korea Copyright Commission, 2025.*
 C-2025-050844
 
+**3. Attribute-based conditional few-shot learning for industrial component recognition**  
+Few-shot industrial component recognition using CLIP-based residual prototypical adaptation with optional attribute conditioning.  
+*Registered with the Korea Copyright Commission, 2025.*
+C-2025-060904
 ---
 
 ## 📚 Seminar on Thesis Research  
@@ -95,6 +99,10 @@ C-2025-050844
 | **2026-01-18** | Beyond Single-Modal Boundary_Cross-Modal Anomaly Detection through Visual Prototype and Harmonization |
 | **2026-02-01** | MambaIRv2: Attentive State Space Restoration |
 | **2026-02-15** | Template-guided Hierarchical Feature Restoration for Anomaly Detection |
+| **2026-03-02** | Masked-attention Mask Transformer for Universal Image Segmentation |
+| **2026-04-02** | VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer |
+| **2026-04-30** | Distilling DETR with Visual-Linguistic Knowledge for Open-Vocabulary |
+
 
 
 
