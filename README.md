@@ -100,11 +100,11 @@ C-2025-060904
 | **2025-12-01** | Aligning and Prompting Anything for Zero-Shot Generalized Anomaly Detection |
 | **2026-01-01** | Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection |
 | **2026-01-18** | Beyond Single-Modal Boundary_Cross-Modal Anomaly Detection through Visual Prototype and Harmonization |
-| **2026-02-01** | MambaIRv2: Attentive State Space Restoration |
-| **2026-02-15** | Template-guided Hierarchical Feature Restoration for Anomaly Detection |
-| **2026-03-02** | Masked-attention Mask Transformer for Universal Image Segmentation |
-| **2026-04-02** | VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer |
-| **2026-04-30** | Distilling DETR with Visual-Linguistic Knowledge for Open-Vocabulary |
+| **2026-02-04** | MambaIRv2: Attentive State Space Restoration |
+| **2026-02-19** | Template-guided Hierarchical Feature Restoration for Anomaly Detection |
+| **2026-03-26** | Masked-attention Mask Transformer for Universal Image Segmentation |
+| **2026-05-01** | VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer |
+| **2026-05-28** | Distilling DETR with Visual-Linguistic Knowledge for Open-Vocabulary |
 
 
 
