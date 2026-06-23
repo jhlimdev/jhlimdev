@@ -61,6 +61,10 @@ Scientific Reports, 2025 (Submitted)
   DOI: \
   10.1007/s44443-026-00572-2
 
+- **Jaehoon Lim**, Jongpil Jeong 
+📌* MambaIRv2-AD: industrial anomaly detection based on a LoRA-adapted state space model*
+  2026 (M.S. Thesis Preliminary Defense, Sungkyunkwan University)
+
 ---
 
 ## 💽 Registered Software Works (Copyright)
@@ -79,6 +83,10 @@ C-2025-050844
 Few-shot industrial component recognition using CLIP-based residual prototypical adaptation with optional attribute conditioning.  
 *Registered with the Korea Copyright Commission, 2025.*
 C-2025-060904
+
+**4. Hybrid reconstructive–discriminative framework for industrial surface anomaly detection**
+Unsupervised surface defect detection combining a LoRA-adapted MambaIRv2 restoration branch with a discriminative U-Net over input–reconstruction–residual channels, trained on synthetic anomalies.
+*Software copyright registration with the Korea Copyright Commission, in progress (2026).*
 
 ---
 
