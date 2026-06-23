@@ -61,8 +61,8 @@ Scientific Reports, 2025 (Submitted)
   DOI: \
   10.1007/s44443-026-00572-2
 
-- **Jaehoon Lim**, Jongpil Jeong 
-📌* MambaIRv2-AD: industrial anomaly detection based on a LoRA-adapted state space model*
+- **Jaehoon Lim**, Jongpil Jeong \
+📌 *MambaIRv2-AD: industrial anomaly detection based on a LoRA-adapted state space model*
   2026 (M.S. Thesis Preliminary Defense, Sungkyunkwan University)
 
 ---
