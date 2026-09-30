@@ -65,7 +65,17 @@ Scientific Reports, 2025 (Submitted)
 📌 *MambaIRv2-AD: industrial anomaly detection based on a LoRA-adapted state space model*
   2026 (M.S. Thesis Preliminary Defense, Sungkyunkwan University)
 
+
 ---
+
+## 🎖️ Honors & Awards
+- **Grand Prize (1st Place)**, Outstanding Research Awards (Spring Semester 2026) \
+  📌 *mLLM-CRD: multi-modal LLM based context-aware rule detection using LoRA-integrated attention for worker safety monitoring* \
+  🏛️ **Department of Smart Factory Convergence, Sungkyunkwan University (SKKU)**, 2026
+  
+---
+
+
 
 ## 💽 Registered Software Works (Copyright)
 
