@@ -123,6 +123,11 @@ Unsupervised surface defect detection combining a LoRA-adapted MambaIRv2 restora
 | **2026-03-26** | Masked-attention Mask Transformer for Universal Image Segmentation |
 | **2026-05-01** | VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer |
 | **2026-05-28** | Distilling DETR with Visual-Linguistic Knowledge for Open-Vocabulary |
+| **2026-07-28** | Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs |
+| **2026-08-18** | DLVP-CLIP: Enhancing Fine-Grained Zero-Shot Anomaly Detection via Dynamic Local Visual Prompting |
+| **2026-08-25** | Defect Cue-Preserved Structural Feature Refinement for Few-Shot Anomaly Detection |
+| **2026-09-15** | HCLIP-AD: Calibrating text-image foundation models with hierarchical semantic alignment for zero-shot anomaly detection |
+| **2026-09-29** | LaRP-CLIP: Layer-Aware Refinement with Prototype Guidance for Zero-Shot Anomaly Detection |
 
 
 
